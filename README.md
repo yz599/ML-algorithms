@@ -1,3 +1,10 @@
+This repository includes my booklist and notes for machine learning including:
+* Theory (foundamental knowlege)
+* Implement in python
+* Programming
+
+
+
 ## 1. Books
 
 ### 1.1 Deep learning theory and python
