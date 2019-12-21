@@ -9,7 +9,7 @@ This repository includes my booklist and notes for machine learning including:
 
 #### 1.1 Deep learning theory and python
 1. [Dive into deep learning](https://d2l.ai/) <br/>
-   [Chinese version](http://zh.gluon.ai/chapter_preface/preface.html)
+   [Chinese version](http://zh.gluon.ai/chapter_preface/preface.html)  
    [Youtube](https://www.youtube.com/playlist?list=PLZSO_6-bSqHQHBCoGaObUljoXAyyqhpFW)
    
    [Other](https://github.com/yz599/books)
