@@ -6,5 +6,5 @@
 
 ##### Activation function
 ###### 3.1 geometrical approach (Feature representation)
-3.1 [How does neural network work-] ](https://github.com/Ranlot/spiralNet)
-    [Continue](http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/)
+[How does neural network work-](https://github.com/Ranlot/spiralNet)
+[Continue](http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/)
