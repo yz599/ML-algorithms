@@ -1,7 +1,7 @@
 
 #### Neural network explaination
 1. [How does neural network work?](https://www.youtube.com/watch?v=ILsA4nyG7I0&feature=emb_logo) (Feature representation)
-2. [What neural networks can learn and how they learn it](https://end-to-end-machinelearning.teachable.com/courses/516029/lectures/9485279) (Function approximatation)
+2. [What neural networks can learn and how they learn it](https://end-to-end-machine-learning.teachable.com/courses/how-deep-neural-networks-work/lectures/9485279) (Function approximatation)
 3. [An interesting demonstration](https://www.bilibili.com/video/av16708021)
 
 
