@@ -1,6 +1,6 @@
 #### Data science
-[First courses](https://brohrer.github.io/blog.html)
-
+[First courses](https://brohrer.github.io/blog.html)  
+[Notes](https://createmomo.github.io/2018/01/23/Super-Machine-Learning-Revision-Notes/#multiclass_classification)
 
 #### Deep learning
 
