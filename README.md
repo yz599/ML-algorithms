@@ -21,3 +21,4 @@ This repository includes my booklist and notes for machine learning including:
 ### Online courses
 [STAT 157 UC Berkeley](https://www.youtube.com/watch?v=Va8WWRfw7Og&list=PLZSO_6-bSqHQHBCoGaObUljoXAyyqhpFW)<br/>
 [Interesting into](https://www.youtube.com/watch?v=BR9h47Jtqyw)
+[Stanford CS class CS231n:](http://cs231n.github.io/)
