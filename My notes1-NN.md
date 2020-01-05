@@ -9,7 +9,8 @@ This part gives an explaination of the significance and interpretations of dot p
 
 
 **1. Dot product**  
-Vector and vector-- line or hyperplane  
+
+   Vector and vector-- line or hyperplane  
 * Linear regression/classification  
 ` 1q
 
