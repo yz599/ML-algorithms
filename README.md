@@ -23,3 +23,4 @@ This repository includes my booklist and notes for machine learning including:
 [Interesting intro](https://www.youtube.com/watch?v=BR9h47Jtqyw)  
 [Stanford CS class CS231n:](http://cs231n.github.io/)  
 [Oxford](https://www.cs.ox.ac.uk/people/varun.kanade/teaching/ML-MT2016/lectures/)
+[MLSS Chicago](https://ttic.uchicago.edu/~suriya/website-intromlss2018/)
