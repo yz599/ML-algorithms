@@ -3,14 +3,15 @@ This note includes some important concepts confused me when I tried to understan
 ### 1. The essensial components of ML -- linearity 
 ---
 **Linearity and linear algebra**  
+
 Linearity is the simplist and most intuitively interpretable relationship/model between variables. And Linear algebra is the mathmatical tool to represent and study linear functions.  
 This part gives an explaination of the significance and interpretations of dot product of vector and vector as well as vector and matrix in the context of machine learning regime.
 
 
-   **1. Dot product**   
-      Vector and vector-- line or hyperplane
-        *As a model- Linear regression/classification*   
-
+**1. Dot product**  
+Vector and vector-- line or hyperplane  
+* Linear regression/classification  
+` 1q
 
 
 ### Q1: Why to introduce non-linearity into model
