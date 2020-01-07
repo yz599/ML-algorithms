@@ -24,14 +24,12 @@ This repository includes my booklist and notes for machine learning including:
 1. [Get data ready](http://dsg.csail.mit.edu/6.S080/syllabus.php)
 
 
-2. Machine learning and deep learning
-
-
-[Interesting intro](https://www.youtube.com/watch?v=BR9h47Jtqyw)  
-[Stanford CS class CS231n:](http://cs231n.github.io/)  
-[Oxford](https://www.cs.ox.ac.uk/people/varun.kanade/teaching/ML-MT2016/lectures/)
-[MLSS Chicago](https://ttic.uchicago.edu/~suriya/website-intromlss2018/)  
-[Columbia](https://www.ee.columbia.edu/~dpwe/e6820/lectures/L03-ml.pdf)
+2. Machine learning and deep learning  
+   [Interesting intro](https://www.youtube.com/watch?v=BR9h47Jtqyw)  
+   [Stanford CS class CS231n:](http://cs231n.github.io/)  
+   [Oxford](https://www.cs.ox.ac.uk/people/varun.kanade/teaching/ML-MT2016/lectures/)
+   [MLSS Chicago](https://ttic.uchicago.edu/~suriya/website-intromlss2018/)  
+   [Columbia](https://www.ee.columbia.edu/~dpwe/e6820/lectures/L03-ml.pdf)
 
 3. Fundamental  
 [STAT 157 UC Berkeley](https://www.youtube.com/watch?v=Va8WWRfw7Og&list=PLZSO_6-bSqHQHBCoGaObUljoXAyyqhpFW)<br/>
