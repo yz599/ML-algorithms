@@ -1,7 +1,9 @@
 This repository includes my booklist and notes for machine learning including:
 * Theory (foundamental knowlege)
 * Implement in python
-* Programming
+* Programming  
+
+[Understanding a Machine Learning workflow through food](https://towardsdatascience.com/understanding-a-machine-learning-workflow-through-food-690ddad7803)
 
 
 
