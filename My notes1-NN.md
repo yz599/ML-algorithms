@@ -29,6 +29,7 @@ This part gives an explaination of the significance and interpretations of dot p
 That seems ridiculous because we all know that you cannot make sense out of an image without accounting for the **interactions among pixels.**  
 
 ### Q2: What is difference between regresssion and classification?
+[Read this](https://ttic.uchicago.edu/~suriya/website-intromlss2018/course_material/Day3a.pdf)  
 
 Similarity:
   * Supervised learning (inputs+labels)
