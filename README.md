@@ -28,6 +28,15 @@ To summarize,
 
 **Machine learning** comes into play at the stage 3 and 4 of data processing and analyzing. If you want to dig into machine learning a bit here, this article - [Understanding a Machine Learning workflow through food](https://towardsdatascience.com/understanding-a-machine-learning-workflow-through-food-690ddad7803)- explains the workflow of machine learn through cooking.
 
+The following two graphs give the big data archetecture and you'll see the ML is one node of data pipline.
+<img src="https://www.researchgate.net/profile/Desamparados_Blazquez/publication/319607964/figure/fig2/AS:537508054536192@1505163314675/Big-Data-architecture-for-nowcasting-and-forecasting-social-and-economic-changes.png" height="200">
+
+*Fig 3. Big Data sources and methods for social and economic analyses*
+
+<img src="https://www.xenonstack.com/images/blog/big-data-framework.png" height="200">
+
+[Fig 4. Big Data Architecture](https://www.xenonstack.com/blog/big-data-ingestion/)
+
 ----
 
 ``And what does it take to became a data scientist?``
@@ -40,53 +49,25 @@ I also find this amazing pragmatic and visual representation of a curriculum, a 
 
 *Fig 2. Becoming a Data Scientist – Curriculum via Metromap*  
 
-
-
 **The skill sets required to be a data scientist:**
 
 *1. Manipulate with *BIG* data*
-* Data acquisition
- - web scraping...
- - API  
- ...
-* Data ingestion
- - dataset management (SQL ...)
- ...
-* Data integration
- - serialization
-* Data wrangling and munging  
- - working with data in CPU (numpy, pandas ...)
- - data preprocessing (cleaning, missing data)
- - visualization
- - feature extraction
+* Data acquisition-web scraping, API ...
+* Data ingestion - dataset management (SQL ...)...
+* Data integration - serialization
+* Data wrangling and munging - working with data in CPU (numpy, pandas ...), data preprocessing (cleaning, missing data),visualization, feature extraction
 
 :bookmark:*Recommended Courses:*  
-[Get data ready](http://dsg.csail.mit.edu/6.S080/syllabus.php)   
+[MIT6.S080 Software Systems for Data Science](http://dsg.csail.mit.edu/6.S080/syllabus.php)   
 
-
-
-<img src="https://www.researchgate.net/profile/Desamparados_Blazquez/publication/319607964/figure/fig2/AS:537508054536192@1505163314675/Big-Data-architecture-for-nowcasting-and-forecasting-social-and-economic-changes.png" height="200">
-
-*Fig 3. Big Data sources and methods for social and economic analyses*
-
-
-<img src="https://www.xenonstack.com/images/blog/big-data-framework.png" height="200">
-
-[Fig 4. Big Data Architecture](https://www.xenonstack.com/blog/big-data-ingestion/)
 
 *2. Machine learning*
 
-* Theory:
- - Linear algebra
- - Statistics
- - Calculus
-* Deep Learning (DL)
- - ANN  
- ...
-* Programming:
- - Packages
+* Theory: Linear algebra, Statistics, Calculus
+* Deep Learning (DL)- ANN...
+* Programming: -Packages, DL frame
 
-**3. Deployment**
+*3. Deployment*
 
  :bookmark:*Recommended Courses:*
 1. Deep learning   
@@ -108,12 +89,7 @@ I also find this amazing pragmatic and visual representation of a curriculum, a 
 [Clean code](http://zh.gluon.ai/chapter_preface/preface.html)
 
 
-
 3. Mathematics for ML   
 [STAT 157 UC Berkeley](https://www.youtube.com/watch?v=Va8WWRfw7Og&list=PLZSO_6-bSqHQHBCoGaObUljoXAyyqhpFW)
-
-
-
-
 
 [1]:https://datascience.berkeley.edu/about/what-is-data-science/
