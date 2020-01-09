@@ -7,7 +7,7 @@ Here are some answers from
 and datascience@berkeley - [Data science Life cycle](https://datascience.berkeley.edu/about/what-is-data-science/).
 
 >“The ability to take data — to be able to **understand it**, to **process it**, to **extract value from it**, to **visualize it**, to **communicate it** — that’s going to be a hugely important skill in the next decades.”  
- --- Hal Varian, chief economist at Google and UC Berkeley professor of information sciences, business, and economics 3
+ --- Hal Varian, chief economist at Google and UC Berkeley professor of information sciences, business, and economics
 
 
 <img src="https://cdn3.datascience.berkeley.edu/content/0be56de3069740669fe2d696fb60220e/DataScienceLifeCycle.jpg" height="300">
@@ -58,7 +58,7 @@ I also find this amazing pragmatic and visual representation of a curriculum, a 
 * Data wrangling and munging - working with data in CPU (numpy, pandas ...), data preprocessing (cleaning, missing data),visualization, feature extraction
 
 :bookmark:*Recommended Courses:*  
-[MIT6.S080 Software Systems for Data Science](http://dsg.csail.mit.edu/6.S080/syllabus.php)   
+   [MIT6.S080 Software Systems for Data Science](http://dsg.csail.mit.edu/6.S080/syllabus.php)   
 
 
 *2. Machine learning*
