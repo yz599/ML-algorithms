@@ -9,7 +9,9 @@ and datascience@berkeley - [Data science Life cycle](https://datascience.berkele
 >“The ability to take data — to be able to **understand it**, to **process it**, to **extract value from it**, to **visualize it**, to **communicate it** — that’s going to be a hugely important skill in the next decades.”  
  --- Hal Varian, chief economist at Google and UC Berkeley professor of information sciences, business, and economics 3
 
-![](https://cdn3.datascience.berkeley.edu/content/0be56de3069740669fe2d696fb60220e/DataScienceLifeCycle.jpg)
+
+<img src="https://cdn3.datascience.berkeley.edu/content/0be56de3069740669fe2d696fb60220e/DataScienceLifeCycle.jpg" height="300">
+
 *Fig 1. Data science life cycle[1][]:*  
 
 The image represents the five stages of the data science life cycle:   
@@ -34,16 +36,15 @@ To summarize,
 
 I also find this amazing pragmatic and visual representation of a curriculum, a learning plan that one can use in this becoming a data scientist journey by Swami Chandrasekaran.  
 
-![image](http://nirvacana.com/thoughts/wp-content/uploads/2018/01/RoadToDataScientist1.png)
-    *Fig 2. Becoming a Data Scientist – Curriculum via Metromap*  
+<img src="http://nirvacana.com/thoughts/wp-content/uploads/2018/01/RoadToDataScientist1.png" height="400">
+
+*Fig 2. Becoming a Data Scientist – Curriculum via Metromap*  
 
 
 
+**The skill sets required to be a data scientist:**
 
-
-The skill sets required to be a data scientist:
-
-**1. Manipulate with *BIG* data**
+*1. Manipulate with *BIG* data*
 * Data acquisition
  - web scraping...
  - API  
@@ -59,17 +60,21 @@ The skill sets required to be a data scientist:
  - visualization
  - feature extraction
 
-*Recommended Courses:*  
+:bookmark:*Recommended Courses:*  
 [Get data ready](http://dsg.csail.mit.edu/6.S080/syllabus.php)   
 
 
-![](https://www.researchgate.net/profile/Desamparados_Blazquez/publication/319607964/figure/fig2/AS:537508054536192@1505163314675/Big-Data-architecture-for-nowcasting-and-forecasting-social-and-economic-changes.png)
+
+<img src="https://www.researchgate.net/profile/Desamparados_Blazquez/publication/319607964/figure/fig2/AS:537508054536192@1505163314675/Big-Data-architecture-for-nowcasting-and-forecasting-social-and-economic-changes.png" height="200">
+
 *Fig 3. Big Data sources and methods for social and economic analyses*
 
-![](https://www.xenonstack.com/images/blog/big-data-framework.png)
+
+<img src="https://www.xenonstack.com/images/blog/big-data-framework.png" height="200">
+
 [Fig 4. Big Data Architecture](https://www.xenonstack.com/blog/big-data-ingestion/)
 
-**2. Machine learning**
+*2. Machine learning*
 
 * Theory:
  - Linear algebra
@@ -93,12 +98,7 @@ The skill sets required to be a data scientist:
 - [ ] [Dive into deep learning](https://www.youtube.com/playlist?list=PLZSO_6-bSqHQHBCoGaObUljoXAyyqhpFW)
 
 
-
-
-
-
-
-*Books*
+:bookmark:*Books*
 1. Deep learning   
 [Dive into deep learning](https://d2l.ai/)  
 [Chinese version](http://zh.gluon.ai/chapter_preface/preface.html)  
