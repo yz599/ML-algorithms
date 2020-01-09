@@ -112,8 +112,8 @@ I also find this amazing pragmatic and visual representation of a curriculum, a 
 3. Mathematics for ML   
 [STAT 157 UC Berkeley](https://www.youtube.com/watch?v=Va8WWRfw7Og&list=PLZSO_6-bSqHQHBCoGaObUljoXAyyqhpFW)
 
-
-
+---
+You'll find more useful references in the importantURLs note. I'll put my notes of ML study here named as mynote+number+topic.
 
 
 [1]:https://datascience.berkeley.edu/about/what-is-data-science/
