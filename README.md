@@ -104,6 +104,7 @@ I also find this amazing pragmatic and visual representation of a curriculum, a 
 [Chinese version](http://zh.gluon.ai/chapter_preface/preface.html)  
 [Other](https://github.com/yz599/books)
 
+
 2. Programming  
 [Clean code](http://zh.gluon.ai/chapter_preface/preface.html)
 
@@ -111,6 +112,7 @@ I also find this amazing pragmatic and visual representation of a curriculum, a 
 
 3. Mathematics for ML   
 [STAT 157 UC Berkeley](https://www.youtube.com/watch?v=Va8WWRfw7Og&list=PLZSO_6-bSqHQHBCoGaObUljoXAyyqhpFW)
+[Introduction to Probability and Statistics](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/readings/)
 
 ---
 You'll find more useful references in the importantURLs note. I'll put my notes of ML study here named as mynote+number+topic.
