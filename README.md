@@ -46,22 +46,22 @@ I also find this amazing pragmatic and visual representation of a curriculum, a 
 
 *1. Manipulate with *BIG* data*
 * Data acquisition
- - web scraping...
- - API  
- ...
+   - web scraping...
+   - API...
 * Data ingestion
- - dataset management (SQL ...)
- ...
+   - dataset management (SQL ...)
+   ...
 * Data integration
- - serialization
+   - serialization
 * Data wrangling and munging  
- - working with data in CPU (numpy, pandas ...)
- - data preprocessing (cleaning, missing data)
- - visualization
- - feature extraction
+   - working with data in CPU (numpy, pandas ...)
+   - data preprocessing (cleaning, missing data)
+   - visualization
+   - feature extraction
+   ...
 
 :bookmark:*Recommended Courses:*  
-[Get data ready](http://dsg.csail.mit.edu/6.S080/syllabus.php)   
+   [Get data ready](http://dsg.csail.mit.edu/6.S080/syllabus.php)   
 
 
 
@@ -77,14 +77,13 @@ I also find this amazing pragmatic and visual representation of a curriculum, a 
 *2. Machine learning*
 
 * Theory:
- - Linear algebra
- - Statistics
- - Calculus
+   - Linear algebra
+   - Statistics
+   - Calculus
 * Deep Learning (DL)
- - ANN  
- ...
+   - ANN ...
 * Programming:
- - Packages
+   - Packages
 
 **3. Deployment**
 
