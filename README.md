@@ -95,7 +95,7 @@ I also find this amazing pragmatic and visual representation of a curriculum, a 
 [MLSS Chicago](https://ttic.uchicago.edu/~suriya/website-intromlss2018/)  
 [Columbia](https://www.ee.columbia.edu/~dpwe/e6820/lectures/L03-ml.pdf)
 - [ ] [Dive into deep learning](https://www.youtube.com/playlist?list=PLZSO_6-bSqHQHBCoGaObUljoXAyyqhpFW)
-
+[CMU](https://www.cs.cmu.edu/~mgormley/courses/10601-s17/slides/)
 
 :bookmark:*Books*
 1. Deep learning   
