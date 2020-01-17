@@ -102,8 +102,8 @@ I also find this amazing pragmatic and visual representation of a curriculum, a 
 [Dive into deep learning](https://d2l.ai/)  
 [Chinese version](http://zh.gluon.ai/chapter_preface/preface.html)  
 [Other](https://github.com/yz599/books)
-[Stanford-cs221](https://stanford-cs221.github.io/autumn2019/)
-
+[Stanford-cs221](https://stanford-cs221.github.io/autumn2019/)  
+[CMU](http://www.cs.cmu.edu/~ninamf/courses/601sp15/lectures.shtml)
 
 2. Programming  
 [Clean code](http://zh.gluon.ai/chapter_preface/preface.html)
