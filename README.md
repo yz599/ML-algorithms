@@ -96,7 +96,7 @@ I also find this amazing pragmatic and visual representation of a curriculum, a 
 [Columbia](https://www.ee.columbia.edu/~dpwe/e6820/lectures/L03-ml.pdf)
 - [ ] [Dive into deep learning](https://www.youtube.com/playlist?list=PLZSO_6-bSqHQHBCoGaObUljoXAyyqhpFW)
 [CMU](https://www.cs.cmu.edu/~mgormley/courses/10601-s17/slides/)
-
+[Unsupervised learning](http://mlg.eng.cam.ac.uk/zoubin/course05/index.html)
 :bookmark:*Books*
 1. Deep learning   
 [Dive into deep learning](https://d2l.ai/)  
