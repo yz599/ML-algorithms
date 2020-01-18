@@ -96,7 +96,9 @@ I also find this amazing pragmatic and visual representation of a curriculum, a 
 [Columbia](https://www.ee.columbia.edu/~dpwe/e6820/lectures/L03-ml.pdf)
 - [ ] [Dive into deep learning](https://www.youtube.com/playlist?list=PLZSO_6-bSqHQHBCoGaObUljoXAyyqhpFW)
 [CMU](https://www.cs.cmu.edu/~mgormley/courses/10601-s17/slides/)
-[Unsupervised learning](http://mlg.eng.cam.ac.uk/zoubin/course05/index.html)
+[Unsupervised learning](http://mlg.eng.cam.ac.uk/zoubin/course05/index.html)  
+
+
 :bookmark:*Books*
 1. Deep learning   
 [Dive into deep learning](https://d2l.ai/)  
@@ -106,6 +108,13 @@ I also find this amazing pragmatic and visual representation of a curriculum, a 
 [CMU1](http://www.cs.cmu.edu/~ninamf/courses/601sp15/lectures.shtml)  
 [CMU2](http://www.cs.cmu.edu/~mgormley/courses/10601/schedule.html)
 [Stanford](http://ufldl.stanford.edu/tutorial/supervised/LogisticRegression/)  
+
+
+2. Unsupervised learning
+[Information Theory, Inference, and Learning Algorithms](http://www.inference.org.uk/mackay/itila/book.html)
+[Unsupervised learning](http://mlg.eng.cam.ac.uk/zoubin/course05/ul.pdf)
+
+
 
 2. Programming  
 [Clean code](http://zh.gluon.ai/chapter_preface/preface.html)
