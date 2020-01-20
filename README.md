@@ -106,7 +106,8 @@ I also find this amazing pragmatic and visual representation of a curriculum, a 
 [Other](https://github.com/yz599/books)
 [Stanford-cs221](https://stanford-cs221.github.io/autumn2019/)  
 [CMU1](http://www.cs.cmu.edu/~ninamf/courses/601sp15/lectures.shtml)  
-[CMU2](http://www.cs.cmu.edu/~mgormley/courses/10601/schedule.html)
+[CMU2](http://www.cs.cmu.edu/~mgormley/courses/10601/schedule.html)  
+[CMU TOM](http://www.cs.cmu.edu/~tom/)
 [Stanford](http://ufldl.stanford.edu/tutorial/supervised/LogisticRegression/)  
 
 
